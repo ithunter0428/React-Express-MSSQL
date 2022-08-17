@@ -14,7 +14,7 @@ It includes:
 
 * Docker
   * nginx
-  * mysql / mssql (default is mysql)
+  * mysql / mssql (default is mssql)
   * node
   * sphinx
 * ExpressJS
